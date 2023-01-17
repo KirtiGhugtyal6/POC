@@ -1,0 +1,9 @@
+  {
+  "value_file": {
+  "Hostname": "server123",
+  "Department": "department",
+  "Rack": "false",
+  "Owner": "business",
+  "Environment": "Development",
+  "Location": "USA West"
+  }
