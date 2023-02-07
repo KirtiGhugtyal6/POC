@@ -4,5 +4,6 @@
   "Department": "DCT",
   "Owner": "business",
   "Environment": "Development",
-  "Location": "USA West"
+  "Location": "USA West",
+  "Testing": "ok"
   }
